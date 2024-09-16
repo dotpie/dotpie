@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align=center>
+  <a href=https://github.com/dotpie/whoau>
+    <img width=70% src=https://github.com/user-attachments/assets/b743da90-9745-4876-8690-3a2364868b81/>
+  </a>
+</p>
+
+<hr>
+
+<p align=right>
+  <sup>copyright © 2024 dotpie All rights reserved.</sup>
+</p>
 
 <!--
 **dotpie/dotpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
