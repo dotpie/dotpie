@@ -1,6 +1,6 @@
 <p align=center>
   <a href=https://github.com/dotpie/whoau>
-    <img width=70% src=https://github.com/user-attachments/assets/b743da90-9745-4876-8690-3a2364868b81/>
+    <img width=80% src=https://github.com/user-attachments/assets/b743da90-9745-4876-8690-3a2364868b81/>
   </a>
 </p>
 
